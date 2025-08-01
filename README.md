@@ -40,6 +40,7 @@ This repository is organized into sections covering both **basic Python** and **
 ---
 
 ## 📂 Folder Structure
+
 Python-Concepts/
 │
 ├── basics/
@@ -53,8 +54,7 @@ Python-Concepts/
 │ ├── inheritance.py
 │ └── ...
 │
-├── README.md
-
+└── README.md
 ---
 
 ## 🛠 How to Use This
