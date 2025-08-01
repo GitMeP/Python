@@ -10,24 +10,16 @@ OOPs in Python is a programming paradigm that organises code into reusable and m
 
 Each real-world object has attributes and behaviours associated with it.
 
+* **Attributes**: Each attribute will have a value associated with it. An attribute is equivalent to data.
+    - 'Name', 'class', 'subject', 'marks', etc of students.
+    - 'Name', 'department', 'designation', 'salary', etc of the employee
 
-## **Attributes**
-
-Each attribute will have a value associated with it. An attribute is equivalent to data.
-
-- 'Name', 'class', 'subject', 'marks', etc of students.
-- 'Name', 'department', 'designation', 'salary', etc of the employee
-
-## **Behaviour**
-
-Processing attributes associated with an object. Behaviour is equivalent to function.
-
+* **Behaviour**: Processing attributes associated with an object. Behaviour is equivalent to function.
 *In real Life, attributes and behaviour are not independent of each other; rather, they co-exist.*
 
-**Example:**
-
-- => Compute the percentage of students' marks.
-- => Apply GST to invoice value
+'Example':
+  => Compute the percentage of students' marks.
+  => Apply GST to invoice value
 
 
 ### What is an Object?
