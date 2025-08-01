@@ -10,11 +10,11 @@ In the real world, we deal with process objects, such as students, employees, in
 Each real-world object has attributes and behaviours associated with it.
 
 What is an Object?
-It's always there in Python, but you don't exactly know what it is or where it is used.
+It's always there in Python, but you may not be entirely familiar with what it is or where it is used.
 
 <p align="center">
-  <img src="OOPs/images/py1.png" width="200" alt="Logo"/>
+  <img src="https://github.com/GitMeP/Python/blob/f742a77112f0588f376396c0be6a6d0ff6be1080/OOPs/images/py1.png" width="200" alt="Logo"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="Chatbot_1/images/demo.png" width="200" alt="Demo"/>
+  <img src="https://github.com/GitMeP/Python/blob/f742a77112f0588f376396c0be6a6d0ff6be1080/OOPs/images/py2.png" width="200" alt="Demo"/>
 </p>
 
