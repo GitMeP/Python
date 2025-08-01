@@ -41,7 +41,7 @@ This repository is organized into sections covering both **basic Python** and **
 
 ## 📂 Folder Structure
 
-<pre> ## 📂 Folder Structure ``` Python-Concepts/ ├── basics/ │ ├── variables.py │ ├── loops.py │ ├── functions.py │ └── ... │ ├── oop/ │ ├── class_objects.py │ ├── inheritance.py │ └── ... │ └── README.md ``` </pre>
+<pre> Python-Concepts/ ├── basics/ │ ├── variables.py │ ├── loops.py │ ├── functions.py │ └── ... │ ├── oop/ │ ├── class_objects.py │ ├── inheritance.py │ └── ... │ └── README.md </pre>
 ---
 
 ## 🛠 How to Use This
