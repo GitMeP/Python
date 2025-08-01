@@ -40,4 +40,41 @@ This repository is organized into sections covering both **basic Python** and **
 ---
 
 ## 📂 Folder Structure
+Python-Concepts/
+│
+├── basics/
+│ ├── variables.py
+│ ├── loops.py
+│ ├── functions.py
+│ └── ...
+│
+├── oop/
+│ ├── class_objects.py
+│ ├── inheritance.py
+│ └── ...
+│
+├── README.md
 
+---
+
+## 🛠 How to Use This
+
+- 📁 Browse through folders by topic
+- 🧠 Read the comments and examples
+- ✅ Run the `.py` files locally to understand outputs
+- 🔁 Practice by modifying examples
+
+---
+
+## 🤝 Contributions Welcome!
+
+Want to add an example or improve an explanation? Feel free to open a **pull request**!  
+This is a collaborative learning space. Let’s make it better together.
+
+---
+
+## ⭐ If This Helps You
+
+Please **star** ⭐ the repo to help more learners discover it.
+
+Happy Coding! 🧠💻
