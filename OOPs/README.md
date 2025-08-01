@@ -10,7 +10,7 @@ OOPs in Python is a programming paradigm that organises code into reusable and m
 
 Each real-world object has **attributes** and **behaviours** associated with it.
 
-<img src="https://github.com/GitMeP/Python/blob/251931d228b0c92b48f4b55e252b8a8ebd8b821e/OOPs/images/py5.png" width="400" alt="Logo"/>
+<img src="https://github.com/GitMeP/Python/blob/251931d228b0c92b48f4b55e252b8a8ebd8b821e/OOPs/images/py6.png" width="400" alt="Logo"/>
 
 ## Attributes
 
@@ -49,4 +49,4 @@ It's always there in Python, but you may not be entirely familiar with what it i
 
 ## Methods
 
-<img src="https://github.com/GitMeP/Python/blob/251931d228b0c92b48f4b55e252b8a8ebd8b821e/OOPs/images/py5.png" width="400" alt="Logo"/>
+<img src="https://github.com/GitMeP/Python/blob/251931d228b0c92b48f4b55e252b8a8ebd8b821e/OOPs/images/py5.png" width="600" alt="Logo"/>
