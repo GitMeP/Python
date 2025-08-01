@@ -18,8 +18,8 @@ Each real-world object has attributes and behaviours associated with it.
 *In real Life, attributes and behaviour are not independent of each other; rather, they co-exist.*
 
 'Example':
-  => Compute the percentage of students' marks.
-  => Apply GST to invoice value
+  * Compute the percentage of students' marks.
+  * Apply GST to invoice value
 
 
 ### What is an Object?
