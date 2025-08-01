@@ -13,8 +13,8 @@ What is an Object?
 It's always there in Python, but you may not be entirely familiar with what it is or where it is used.
 
 <p align="center">
-  <img src="https://github.com/GitMeP/Python/blob/f742a77112f0588f376396c0be6a6d0ff6be1080/OOPs/images/py1.png" width="450" alt="Logo"/>
+  <img src="https://github.com/GitMeP/Python/blob/f742a77112f0588f376396c0be6a6d0ff6be1080/OOPs/images/py1.png" width="400" alt="Logo"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/GitMeP/Python/blob/f742a77112f0588f376396c0be6a6d0ff6be1080/OOPs/images/py2.png" width="450" alt="Demo"/>
+  <img src="https://github.com/GitMeP/Python/blob/f742a77112f0588f376396c0be6a6d0ff6be1080/OOPs/images/py2.png" width="500" alt="Demo"/>
 </p>
 
