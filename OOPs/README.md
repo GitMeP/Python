@@ -20,6 +20,7 @@ It's always there in Python, but you may not be entirely familiar with what it i
 </p>
 
 <p align="center">
+  <img src="https://github.com/GitMeP/Python/blob/f742a77112f0588f376396c0be6a6d0ff6be1080/OOPs/images/py3.png" width="400" alt="Logo"/>  
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/GitMeP/Python/blob/f742a77112f0588f376396c0be6a6d0ff6be1080/OOPs/images/py3.png" width="550" alt="Demo"/>  
+  <img src="https://github.com/GitMeP/Python/blob/f742a77112f0588f376396c0be6a6d0ff6be1080/OOPs/images/py4.png" width="550" alt="Demo"/>  
 </p>
