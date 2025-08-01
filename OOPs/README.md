@@ -5,21 +5,33 @@
 OOPs in Python is a programming paradigm that organises code into reusable and modular components called objects (OOPs helps you structure your code by grouping related data and behaviours into objects)
 
 ---
-* In the real world, we deal with process objects, such as 'students', 'employees', 'invoices', 'cars', etc. 
-* Objects are not only data and not only functions, but a combination of both.
+- In the real world, we deal with **process objects** such as _students_, _employees_, _invoices_, _cars_, etc.  
+- These **objects are not just data or functions**, but a **combination of both**.
 
-Each real-world object has attributes and behaviours associated with it.
+Each real-world object has **attributes** and **behaviours** associated with it.
 
-* **Attributes**: Each attribute will have a value associated with it. An attribute is equivalent to data.
-    - 'Name', 'class', 'subject', 'marks', etc of students.
-    - 'Name', 'department', 'designation', 'salary', etc of the employee
+## Attributes
 
-* **Behaviour**: Processing attributes associated with an object. Behaviour is equivalent to function.
-*In real Life, attributes and behaviour are not independent of each other; rather, they co-exist.*
+Each attribute will have value associated with it. Attributes represent the **data** associated with an object.
 
-'Example':
-  * Compute the percentage of students' marks.
-  * Apply GST to invoice value
+**Examples:**
+
+- For a **student**:
+  - `name`, `class`, `subject`, `marks`
+- For an **employee**:
+  - `name`, `department`, `designation`, `salary`
+
+## Behaviour
+
+Behaviour represents the **functions or actions** that operate on the attributes.
+
+> In real life, **attributes and behaviour are not independent** rather they **co-exist**.
+
+**Examples:**
+
+- Compute the **percentage** of a student's marks
+- Apply **GST** to an invoice value
+
 
 
 ### What is an Object?
