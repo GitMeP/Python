@@ -4,7 +4,7 @@ Welcome! 👋
 
 If you're like me and often get confused by Python OOPs or forget basic Python concepts — this is the place for you. I've created this repository as a collection of **clear, simple explanations** of important Python topics, especially for learners like us.
 
-I’ll try to explain everything as easily as possible — because I’m also learning.  
+I’ll try to explain everything as easily as possible.
 Let’s learn and grow together! 🚀
 
 ---
