@@ -29,3 +29,5 @@ print(data_list)
 list_data = ("This","is","a","tuple")
 print(list_data)
 -> Output: ("This","is","a","tuple")
+
+<span style="color:gray">["hello", "welcome", "to", "python", "learning"]</span>
