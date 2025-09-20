@@ -18,7 +18,8 @@ Lists and Tuples are fundamental Python data structures with distinct characteri
 list_data = ["hello","welcome","to","python"]
 list_data.append("learning")
 print(data_list)
--> Output: ["hello","welcome","to","python","learning"]
+
+> Output: ["hello","welcome","to","python","learning"]
 
 #### Tuples:
 * Immutable: Elements cannot be changed after creation.
@@ -28,6 +29,10 @@ print(data_list)
 **Example:**
 list_data = ("This","is","a","tuple")
 print(list_data)
--> Output: ("This","is","a","tuple")
 
-<span style="color:gray">["hello", "welcome", "to", "python", "learning"]</span>
+> Output: ("This","is","a","tuple")
+
+
+> ```python
+> ["hello", "welcome", "to", "python", "learning"]
+> `
