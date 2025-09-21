@@ -16,6 +16,7 @@ Lists and Tuples are fundamental Python data structures with distinct characteri
 * Performance: Slower iteration compared to tuples but better for insertion and deletion operations.
   
 **Example:**
+
 list_data = ["hello","welcome","to","python"]
 
 list_data.append("learning")
@@ -31,6 +32,7 @@ print(data_list)
 * Performance: Faster iteration compared to lists but lacks the flexibility of lists.
   
 **Example:**
+
 list_data = ("This","is","a","tuple")
 
 print(list_data)
