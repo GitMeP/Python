@@ -7,7 +7,7 @@ Some of python's key features are:
 * Extensive libraries and framework support
 * Cross-Platform Compatibility (meaning it can run on different  OS, including Windows, macOS, and Linux
 
-### list and tiples
+### list and tuples
 Lists and Tuples are fundamental Python data structures with distinct characteristics and use cases.
 #### List:
 * Mutable: Elements can be changed after creation.
@@ -17,7 +17,9 @@ Lists and Tuples are fundamental Python data structures with distinct characteri
   
 **Example:**
 list_data = ["hello","welcome","to","python"]
+
 list_data.append("learning")
+
 print(data_list)
 
 > Output: ["hello","welcome","to","python","learning"]
@@ -30,6 +32,7 @@ print(data_list)
   
 **Example:**
 list_data = ("This","is","a","tuple")
+
 print(list_data)
 
 > Output: ("This","is","a","tuple")
